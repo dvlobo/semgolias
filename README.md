@@ -1,4 +1,4 @@
-</a><a href="[https://www.linkedin.com/in/pratik-kumar04](https://www.linkedin.com/in/davi-lobo-9428271a6/)" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="[https://www.instagram.com/pratikkumar04](https://www.instagram.com/davi.sql/)" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+
 
 ## Oii 👋 Eu sou o Davi! 
 Sou um técnólogo em gastronomia estudando programação e ferramentas de análise e visualização de dados.
