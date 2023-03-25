@@ -1,7 +1,7 @@
 
 
 ## Oii 👋 Eu sou o Davi! 
-Sou um técnólogo em gastronomia estudando programação e ferramentas de análise e visualização de dados.
+Sou um tecnólogo em gastronomia estudando programação e ferramentas de análise e visualização de dados.
  
 
 
